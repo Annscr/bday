@@ -27,14 +27,14 @@
 
 const CONFIG = {
   // ── Recipient Info ────────────────────────────────────────────
-  name: "Raaa",
-  photo: "./img/raaa.jpeg",       // Place your photo in the img/ folder
+  name: "nelll",
+  photo: "./img/nell.jpeg",       // Place your photo in the img/ folder
   music: "./music/hbd.mp3",      // Place your music in the music/ folder
 
   // ── Theme Colors ──────────────────────────────────────────────
   // A toggle button lets the viewer switch between dark & light mode.
   colors: {
-    primary: "#f472b6",           // Main accent color (rose pink)
+    primary: "#60a5fa",           // Main accent color (rose pink)
     accent: "#60a5fa",            // Secondary accent color (sky blue)
     dark: {
       background: "#0f172a",      // Slate 900
@@ -55,8 +55,8 @@ const CONFIG = {
   sections: [
     {
       type: "greeting",
-      title: "Hi",
-      subtitle: "kinda late to say this huh ? but.."
+      title: "Uyyy",
+      subtitle: "masii sempet kann ?"
     },
     {
       type: "countdown",
@@ -65,22 +65,22 @@ const CONFIG = {
     },
     {
       type: "announcement",
-      text: "It's your birthday!! :D",
+      text: "Selamat ulang taunnn!! :D",
     },
     {
       type: "chatbox",
       message:
-        "Happy birthday to youu!! Wishing you a wonderful year ahead filled with joy, love, and endless happiness!",
+        "barakallah fii umrik ya nell, Semoga semua yang lagii kamu hadapin perlahan membaik dan semesta ngebales semua ketulusan serta perjuangan kamu dengan banyak kebahagiaan",
       buttonText: "Send",
     },
     {
       type: "ideas",
       lines: [
-        "That's what I was going to say.",
-        "But then I stopped.",
-        "I realised, I wanted to do something <strong>special</strong>.",
-        "Because,",
-        "Dunno man,just want to do this lol <span>:)</span>",
+        "jujur bingung mau ngucapin apa atau gmn",
+        "aing tau walaupun keliatan diluarnya kaya happy atau seneng2 aja tpi ttp adaa bagian vulnerable yng ga diliat orang",
+        "kaya akhir2 ini yg mngkin sebenernya lagi ga gampang",
+        "aing harap sia ttp inget kalo sia itu orang yang kuat, luar biasa, & spesial <strong>spesial</strong>",
+        "ngapa jadi sedih2an gini dah blay wkwk, intinya selamt ulang taun yakk<span>:)</span>",
       ],
       bigLetters: "SO",
     },
@@ -100,7 +100,8 @@ const CONFIG = {
     {
       type: "profile",
       wishTitle: "Happy Birthday!",
-      wishText: "Look how old you've become grand, just kidingg :P",
+      wishText: "doain jga yh semoga aing jga bisa nyusul kesana wkwk, kasi tau tmpat2 yng seru dijepang",
+       wishText: "foto legend btw"
     },
     {
       type: "fireworks",
@@ -112,7 +113,7 @@ const CONFIG = {
     },
     {
       type: "closing",
-      text: "Okay, now come back and tell me if you liked it.",
+      text: "anjirr lupa, disana udh gnti hari yaa ? maapin",
       replayText: "Or click, if you want to watch it again.",
     },
   ],
