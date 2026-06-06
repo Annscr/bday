@@ -56,7 +56,7 @@ const CONFIG = {
     {
       type: "greeting",
       title: "Uyyy",
-      subtitle: "masii sempet kann ?"
+      subtitle: "sesuai reqwesttt -_-"
     },
     {
       type: "countdown",
@@ -86,8 +86,9 @@ const CONFIG = {
     },
     {
       type: "quote",
-      text: "The more you praise and celebrate your life, the more there is in life to celebrate.",
-      author: "Oprah Winfrey",
+      text: "‘blue’ is a song about missing friends. A lot of shit happened this year, and I realized that the only thing I really wanted to do was to share it with people who aren’t with me anymore. It’s not even that we’re far away from each other. We just lose track of keeping in touch because we all have our own lives going on.The ‘move on with the seasons’ line still kinda guts me when I read it.",
+      author: "keshi",
+      count: 1000,
     },
     {
       type: "stars",
@@ -113,7 +114,7 @@ const CONFIG = {
     },
     {
       type: "closing",
-      text: "anjirr lupa, disana udh gnti hari yaa ? maapin",
+      text: "done yak 😎",
       replayText: "Or click, if you want to watch it again.",
     },
   ],
