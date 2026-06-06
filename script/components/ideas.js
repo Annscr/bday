@@ -59,7 +59,7 @@
         tl.fromTo(specialLine,
           { rotationX: 15, rotationZ: -10, skewY: "-5deg", y: 50, z: 10, opacity: 0 },
           { rotationX: 0, rotationZ: 0, skewY: "0deg", y: 0, z: 0, opacity: 1, duration: 0.7 },
-          "+=1.5"
+          "+=2"
         );
 
         const span = specialLine.querySelector("span");
@@ -81,7 +81,7 @@
         .to(bigLetters, {
           duration: 0.8, scale: 3, opacity: 0, rotation: -15,
           ease: "expo.out", stagger: 0.2,
-        }, "+=1.5");
+        }, "+=2");
       }
     },
   };
