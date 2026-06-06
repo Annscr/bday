@@ -30,7 +30,7 @@
         tl.from(author, { duration: 0.4, opacity: 0, x: -20 });
       }
 
-      tl.to(card, { duration: 0.6, opacity: 0, y: -20 }, "+=4");
+      tl.to(card, { duration: 0.6, opacity: 0, y: -20 }, "+=10");
     },
   };
 })();
