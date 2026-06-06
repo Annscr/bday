@@ -79,7 +79,7 @@ const CONFIG = {
         "jujur bingung mau ngucapin apa atau gmn",
         "aing tau walaupun keliatan diluarnya kaya happy atau seneng2 aja tpi ttp adaa bagian vulnerable yng ga diliat orang",
         "kaya akhir2 ini yg mngkin sebenernya lagi ga gampang",
-        "aing harap sia ttp inget kalo sia itu orang yang kuat, luar biasa, & spesial <strong>spesial</strong>",
+        "aing harap sia ttp inget kalo sia itu orang yang kuat, luar biasa, & <strong>spesial</strong>",
         "ngapa jadi sedih2an gini dah blay wkwk, intinya selamt ulang taun yakk<span>:)</span>",
       ],
       bigLetters: "SO",
